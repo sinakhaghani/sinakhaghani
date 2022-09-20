@@ -25,6 +25,7 @@
 
 </div>
 
+# 💻 Tech Stack:
 <div>
   <a href="https://github.com/socr102">
     <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
